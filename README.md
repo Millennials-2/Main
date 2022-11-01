@@ -1,5 +1,9 @@
-## [Millennials-2](https://github.com/Millennials-2)
+### Καλώς ορίσατε στη ομάδα μας !
+- Η ομάδα αυτή δημιουργήκε στα πλαίσια του μαθήματος Επικοινωνία Ανθρώπου-Υπολογιστή (δες το σχετικό repository του [μαθήματος](https://github.com/courses-ionio/hci))
 
+
+## [Millennials-2](https://github.com/Millennials-2)
+### Μέλη ομάδας:
 |#|Roles| AM |First & Last name|
 |-|-----|----|-----------------|
 |1|Admin| 2018154 | [Pavlos Tsolakidis](https://github.com/PavTsol) |
@@ -10,3 +14,10 @@
 |6|Member| 2018015 | [Efthimis Tzallas](https://github.com/Efthimis015)|
 |7|Member| 2018122 | [Andreas Karageorgiou](https://github.com/AndreasKarageorgiou)|
 |8|Member| 2018060 | [Theodoros Tsetsilas](https://github.com/TeoTsetsilas)|
+
+
+## Γενικοί στόχοι:
+- Εξοικείωση με την πλατφόρμα του github στο επίπεδο οργανισμού, παράδειγμα pull requests και διαχείρηση αλλαγών.
+- Γνωριμία με την τέχνη της ασύγχρονης επικοινωνίας και εργασίας μεταξύ των μελών του οργανισμού.
+
+Το παρών αρχείο είναι επιρρεπή σε αλλαγές.
