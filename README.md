@@ -14,6 +14,7 @@
 |6|Member| 2018015 | [Efthimis Tzallas](https://github.com/Efthimis015)|
 |7|Member| 2018122 | [Andreas Karageorgiou](https://github.com/AndreasKarageorgiou)|
 |8|Member| 2018060 | [Theodoros Tsetsilas](https://github.com/TeoTsetsilas)|
+|9|Member| 2014148 | [Giwrgos Ntotsios](https://github.com/p14ntot)|
 
 
 ## Γενικοί στόχοι:
